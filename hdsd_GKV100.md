@@ -9,7 +9,9 @@
 
 ## Cài đặt
 
-Không cần cài đặt
+Đối với mỗi tài khoản Mail lần đầu sử dụng Tool, khi click **button** sẽ hiện ra pop-up "Ủy quyền". 
+Khi xuất hiện pop-up cần click "ủy quyền" cho tool sử dụng dữ liệu. 
+Chỉ cần cấp quyền 1 lần duy nhất. Từ sau sử dụng sẽ không cần "Ủy quyền" lại nữa.
 
 
     
